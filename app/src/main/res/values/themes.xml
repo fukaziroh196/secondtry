@@ -2,4 +2,10 @@
 <resources>
 
     <style name="Theme._3try" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.TasksDB" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">@color/purple_500</item>
+        <item name="android:colorPrimaryDark">@color/purple_700</item>
+        <item name="android:colorAccent">@color/teal_200</item>
+    </style>
 </resources>
